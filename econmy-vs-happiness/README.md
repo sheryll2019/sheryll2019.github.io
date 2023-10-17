@@ -1,4 +1,4 @@
-# IS428
+# D3 Visualisation
 
 To run our combined visualisation dashboard,
 
