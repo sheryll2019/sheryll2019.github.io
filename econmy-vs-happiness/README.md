@@ -6,7 +6,7 @@ To run our combined visualisation dashboard,
 - (2) Make sure you are in Visualisation directory: `cd IS428/Visualisation/`
 - (3) Run the .html file in your local http server: `python -m http.server 8080` 
 - (4) Go to your browser and search `localhost:8080` on your search bar
-- (5) Click on `project.html`
+- (5) Click on `index.html`
 
 
 <img width="855" src="https://github.com/sheryll2019/sheryll2019.github.io/assets/61812922/7699405e-d3c7-4631-b6e2-32ce032301d4">
