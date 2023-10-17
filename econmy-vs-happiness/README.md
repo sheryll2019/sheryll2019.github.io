@@ -1,6 +1,6 @@
 # D3 Visualization
 
-To view visualisation, go to link: https://sheryll2019.github.io/econmy-vs-happiness/
+To view visualisation, go to link: https://sheryll2019.github.io/economy-vs-happiness/
 
 
 To view visualisation on your local desktop
